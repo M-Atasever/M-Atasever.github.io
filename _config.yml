@@ -1,12 +1,12 @@
 # Site settings
-title: Decision Lab @ UCSF (Chiong lab)
-name: Decision Lab at UCSF (Chiong lab)
-email: decisionlab@ucsf.edu
+title: CPS-VIDA Lab @ USC
+name: CPS-VIDA Lab @ USC
+email: # decisionlab@ucsf.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Neuroethics + Decision Neuroscience. Research group headed by Winston Chiong, MD PhD in the 
-  University of California, San Francisco Weill Institute for Neurosciences, Memory and Aging Center.
+  Cyber-Physical Systems + Verification, Intelligence, Design, and Analysis. Research group headed by Prof. Jyo Deshmukh at the 
+  University of Southern California, LA.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://decisionlab.ucsf.edu
+url: https://M-Atasever.github.io
 last_updated: # leave blank if you don't want to display last updated
 #twitter_username: jekyllrb
 #github_username:  jekyll
