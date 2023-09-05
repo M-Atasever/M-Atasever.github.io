@@ -14,8 +14,8 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # News
 # -----------------------------------------------------------------------------
-blog_name: Decision Lab @ UCSF
-blog_description: neuroethics + decision neuroscience
+blog_name: CPS-VIDA Lab @ USC
+blog_description: Cyber-Physical Systems + Verification, Intelligence, Design, and Analysis
 
 # Pagination
 paginate: 4
