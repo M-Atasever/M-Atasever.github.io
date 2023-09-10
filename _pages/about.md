@@ -46,6 +46,5 @@ Powell Hall 101b
 3737 Watt Way,
 Los Angeles, CA 900089
 
-<i class="fa fa-envelope"></i> *cps_vida_lab (at) usc.edu*
 
 

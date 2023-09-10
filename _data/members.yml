@@ -12,13 +12,6 @@
   description: 
 
 
-
-
-
-
-
-
-
 - name: Anand Balakrishnan
   degrees: PhD
   image: Anand.jpg
@@ -33,13 +26,6 @@
   description: Learning Algorithms for Controller Synthesis
                Safety in Reinforcement Learning
                Verification of Perception Systems
-
-
-
-
-
-
-
 
 
 - name: Aniruddh Puranic
@@ -58,11 +44,6 @@
                Safe Imitation Learning
               
               
-              
-              
-              
-              
-              
 - name: Navid Hashemi
   degrees: PhD
   image: Navid.jpg
@@ -78,11 +59,7 @@
                 Control Theory
                 Fault Detection
                 Reinforcement Learning
-  
-                
-                
-                
-                
+
                 
 - name: Sheryl Paul
   image: Sheryl.jpg
@@ -95,10 +72,6 @@
   orcid:
   description:  Game Theory
                 Formal Methods and Verification
- 
- 
- 
- 
  
               
 - name: Xin Qin
@@ -117,11 +90,6 @@
                Machine Learning
                
                
-               
-               
-               
-               
-               
 - name: Yuan Xia
   image: Yuan.jpg
   altimage:
@@ -133,12 +101,6 @@
   orcid:
   description:  Machine Learning
                 Formal Methods           
- 
- 
- 
- 
- 
- 
  
                      
 - name: Sam Williams
@@ -154,12 +116,6 @@
                 Cyber-Physical Systems
 
 
-
-
-
-
-
-
 - name: Vidisha Kudalkar
   image: Vidisha.jpg 
   altimage:
@@ -170,12 +126,6 @@
   scholar: 
   orcid:
   description: Robot Learning 
-
-
-
-
-
-
 
 
 - name: Yuriy Biktairov
@@ -189,14 +139,8 @@
   orcid:
   description:  Logical Reasoning 
                 Robustness of Perception Systems
-                
-                
-                
-                
-                
-                
-                
-                
+
+ 
 - name: Yiqi Zhao
   image: Yiqi.jpg 
   altimage:
@@ -210,12 +154,7 @@
                 Design, Verification, Testing
                 Formal Methods
                 Control, and Planning
-                
-                
-                
-                
-                
-                
+ 
                 
 - name: Merve Atasever
   image: Merve.jpg 
