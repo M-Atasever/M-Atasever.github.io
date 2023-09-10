@@ -8,7 +8,7 @@ profile:
   align: right
   image: lab_pic.jpg
   address: > 
-    <p>Salvatori Computer Science Center</p>
+    <p>Powell Hall / Viterbi School of Engineering</p>
 
 news: false
 social: false
@@ -35,7 +35,20 @@ The CPS-VIDA Lab is led by [Prof. Jyotirmoy Deshmukh](https://jdeshmukh.github.i
 
 ## partners
 
-Our work is funded by BLANK 
+Our work is funded by
+
+<div class="clearfix" style="width: 100%; padding-bottom: 25px"></div>
+
+<div class="clearfix" style="width: 100%; clear: both;">
+    <a href="https://www.usc.edu/" target="_blank"><img style="width: 27%; float: right; padding-bottom: 25px;" valign="center" src="{{ site.baseurl }}/assets/img/usc-logo-banner.png" alt="logo for  USC"></a>
+</div>
+<div class="clearfix" style="width: 100%; clear:both;">
+    <a href="https://www.usc.edu/" target="_blank"><img style="width: 52%; float: left; padding-bottom: 25px;" valign="center" src="{{ site.baseurl }}/assets/img/people_03.jpg" alt="logo for  USC PEOPLE"></a>
+</div>
+<div style="width: 100%; clear: both; margin-bottom: 15px">
+</div>
+
+
 
 ---
 
@@ -46,5 +59,7 @@ Powell Hall 101b
 3737 Watt Way,
 Los Angeles, CA 900089
 
+<i class="fa fa-envelope"></i>
 
+---
 
