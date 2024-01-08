@@ -19,7 +19,7 @@ The CPS-VIDA Lab is led by [Prof. Jyotirmoy Deshmukh](https://jdeshmukh.github.i
 
 2. **Robot Learning**
 
-3. **Robot Learning**
+3. **Reinforcement Learning**
 
 4. **Multi-agent Planning**
 
@@ -41,9 +41,7 @@ Our work is funded by
 
 <div class="clearfix" style="width: 100%; clear: both;">
     <a href="https://www.usc.edu/" target="_blank"><img style="width: 27%; float: right; padding-bottom: 25px;" valign="center" src="{{ site.baseurl }}/assets/img/usc-logo-banner.png" alt="logo for  USC"></a>
-</div>
-<div class="clearfix" style="width: 100%; clear:both;">
-    <a href="https://www.usc.edu/" target="_blank"><img style="width: 52%; float: left; padding-bottom: 25px;" valign="center" src="{{ site.baseurl }}/assets/img/people_03.jpg" alt="logo for  USC PEOPLE"></a>
+    <a href="https://www.usc.edu/" target="_blank"><img style="width: 63%; float: left; padding-bottom: 25px;" valign="center" src="{{ site.baseurl }}/assets/img/people_03.jpg" alt="logo for  USC PEOPLE"></a>
 </div>
 <div style="width: 100%; clear: both; margin-bottom: 15px">
 </div>
@@ -59,7 +57,10 @@ Powell Hall 101b
 3737 Watt Way,
 Los Angeles, CA 900089
 
-<i class="fa fa-envelope"></i>
+<i class="fa fa-envelope"></i> * *
 
 ---
+
+
+This site is open-source and available on [GitHub](https://github.com/decisionlabucsf/decisionlabucsf.github.io){:target="\_blank"}. It is built on the [ucsf_jekyll_basic](https://github.com/ucsf-web-services/ucsf_jekyll_basic){:target="\_blank"} template.
 
