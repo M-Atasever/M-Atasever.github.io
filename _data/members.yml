@@ -9,16 +9,12 @@
   github: 
   scholar: 
   orcid: 
-  description: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               
-
+  description: Collaborative work with Lars Lindemann and Xin on predictive runtime monitoring was accepted to ICCPS 2023. \n
+               Navid's paper on neurosymbolic verification was accepted to ICCPS 2023. \n
+               Navid's paper on risk-estimation for neural controller synthesis was accepted to ACC 2023. \n
+               Aniruddh's paper on learning performance graphs from task demonstrations was accepted in IEEE Robotics and Automation Letters, and will be presented at ICRA 2023. \n
+               Started new sponsored project with the fine folks at Siemens Corporate Research in Princeton. \n
+               Received new grant from USC Airbus Institute for Engineering Research. \n
 
 - name: Anand Balakrishnan
   degrees: PhD
@@ -31,17 +27,13 @@
   github: 
   scholar: 
   orcid: 
-  description: Learning Algorithms for Controller Synthesis
-               Safety in Reinforcement Learning
-               Verification of Perception Systems
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  description: Learning Algorithms for Controller Synthesis \n
+               Safety in Reinforcement Learning \n
+               Verification of Perception Systems \n
+               Model-free Reinforcement Learning for Spatiotemporal Tasks using Symbolic Automata, CDC, 2023. \n
+               new line 1 \n
+               new line 2 \n
+
 
 
 - name: Aniruddh Puranic
@@ -55,18 +47,14 @@
   github:
   scholar: 
   orcid:
-  description: Robotics
-               Human Behavior Modeling
-               Safe Imitation Learning
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-              
+  description: Robotics \n
+               Human Behavior Modeling \n 
+               Safe Imitation Learning \n 
+               Learning Performance Graphs From Demonstrations via Task-Based Evaluations, ICRA, 2023. \n
+               new line 1 \n
+               new line 2 \n
+               new line 3 \n
+       
               
 - name: Navid Hashemi
   degrees: PhD
@@ -79,18 +67,13 @@
   github:
   scholar: 
   orcid:
-  description:  Cyber-Physical Systems
-                Control Theory
-                Fault Detection
-                Reinforcement Learning
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  description:  Cyber-Physical Systems \n
+                Control Theory \n
+                Fault Detection \n
+                Reinforcement Learning \n
+                new line 1 \n
+                new line 2 \n
+                new line 3 \n
 
                 
 - name: Sheryl Paul
@@ -102,16 +85,11 @@
   website: 
   scholar: 
   orcid:
-  description:  Game Theory
-                Formal Methods and Verification
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  description:  Game Theory \n
+                Formal Methods and Verification \n
+                new line 1 \n
+                new line 2 \n
+                new line 3 \n
  
               
 - name: Xin Qin
@@ -124,18 +102,16 @@
   website: https://xinqin23.github.io/
   scholar: 
   orcid:
-  description: Formal Methods
-               Predictive Monitoring
-               Automated Testing
-               Machine Learning
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  description: Formal Methods \n 
+               Predictive Monitoring \n 
+               Automated Testing \n 
+               Machine Learning \n 
+               Statistical Verification using Surrogate Models and Conformal Inference and a Comparison with Risk-aware Verification, TCPS, 2023. \n
+               Conformance Testing for Stochastic Cyber-Physical Systems, FMCAD, 2023. \n
+               Robust Testing for Cyber-Physical Systems using Reinforcement Learning, MEMOCODE, 2023. \n
+               new line 1 \n
+               new line 2 \n
+               new line 3 \n
                
                
 - name: Yuan Xia
@@ -147,16 +123,14 @@
   website: 
   scholar: 
   orcid:
-  description:  Machine Learning
-                Formal Methods      
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                
+  description:  Machine Learning \n
+                Formal Methods  \n
+                new line 1 \n
+                new line 2 \n
+                new line 3 \n   
+                new line 4 \n
+                new line 5 \n
+                new line 6 \n
  
                      
 - name: Sam Williams
@@ -168,16 +142,14 @@
   website: https://sjwil.github.io/personal-site/
   scholar: 
   orcid:
-  description:  Game theory
-                Cyber-Physical Systems
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  description:  Game theory \n
+                Cyber-Physical Systems \n
+                new line 1 \n
+                new line 2 \n
+                new line 3 \n   
+                new line 4 \n
+                new line 5 \n
+                new line 6 \n
 
 
 - name: Vidisha Kudalkar
@@ -189,15 +161,13 @@
   website: 
   scholar: 
   orcid:
-  description: Robot Learning 
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  description: Robot Learning \n
+               new line 1 \n
+               new line 2 \n
+               new line 3 \n   
+               new line 4 \n
+               new line 5 \n
+               new line 6 \n
 
 
 - name: Yuriy Biktairov
@@ -209,17 +179,14 @@
   website: 
   scholar: 
   orcid:
-  description:  Logical Reasoning 
-                Robustness of Perception Systems
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
+  description:  Logical Reasoning \n
+                Robustness of Perception Systems \n
+                new line 1 \n
+                new line 2 \n
+                new line 3 \n   
+                new line 4 \n
+                new line 5 \n
+                new line 6 \n
  
 - name: Yiqi Zhao
   image: Yiqi.jpg 
@@ -230,18 +197,16 @@
   website: https://yiqi-zhao.herokuapp.com/
   scholar: 
   orcid:
-  description:  Cyber-Physical Systems
-                Design, Verification, Testing
-                Formal Methods
-                Control, and Planning
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  description:  Cyber-Physical Systems \n
+                Design, Verification, Testing \n
+                Formal Methods \n
+                Control, and Planning \n
+                new line 1 \n
+                new line 2 \n
+                new line 3 \n   
+                new line 4 \n
+          
+               
                 
 - name: Merve Atasever
   image: Merve.jpg 
@@ -252,14 +217,10 @@
   website: https://merveatasever.github.io/
   scholar: 
   orcid:
-  description:  Autonomous Cyber-Physical Systems
-                Reinforcement Learning
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  description:  Differential Geometry in Reinforcement Learning \n
+∗               Multi-Agent Reinforcement Learning \n
+∗               Reward Engineering in Reinforcement Learning \n
+                new line 1 \n
+                new line 2 \n
+                new line 3 \n
                 
